@@ -6,4 +6,4 @@ sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub
 sudo apt install wget curl git neofetch neovim
 sudo apt install qemu-system libvirt-daemon-system
 sudo apt install virt-manager
-
+t
