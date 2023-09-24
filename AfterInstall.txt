@@ -3,7 +3,7 @@ sudo apt update && suso apt upgrade -y
 #install flatpak
 sudo apt install flatpak gmome-software-plugin-flatpak
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-sudo apt install wget curl git neofetch neovim btop
+sudo apt install wget curl git neofetch neovim btop vlc libavcodec-extra net-tools
 sudo apt install qemu-system libvirt-daemon-system
 sudo apt install virt-manager
 
